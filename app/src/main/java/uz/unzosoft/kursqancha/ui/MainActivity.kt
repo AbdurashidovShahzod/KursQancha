@@ -1,4 +1,4 @@
-package uz.unzosoft.kursqancha
+package uz.unzosoft.kursqancha.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
